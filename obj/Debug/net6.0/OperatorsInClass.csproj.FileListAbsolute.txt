@@ -1,0 +1,15 @@
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\bin\Debug\net6.0\OperatorsInClass.exe
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\bin\Debug\net6.0\OperatorsInClass.deps.json
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\bin\Debug\net6.0\OperatorsInClass.runtimeconfig.json
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\bin\Debug\net6.0\OperatorsInClass.dll
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\bin\Debug\net6.0\OperatorsInClass.pdb
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.AssemblyInfo.cs
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.dll
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\refint\OperatorsInClass.dll
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.pdb
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\OperatorsInClass.genruntimeconfig.cache
+C:\Users\Adam\Documents\Adam\School\True Coders\repos\OperatorsInClass\OperatorsInClass\obj\Debug\net6.0\ref\OperatorsInClass.dll
